@@ -55,7 +55,64 @@ Humanitarians AI supports **AI-driven educational tools** for universities, incl
 
 - **Ada** – A chatbot for **Introductory Calculus** providing step-by-step guidance and Socratic questioning.  
 - **Newton** – A chatbot for **Introductory Physics**, integrating **dynamic graphs and simulations** for hands-on learning.  
-- **Grace** – A chatbot for **Algorithms**, using **interactive visualizations** to improve algorithmic understanding.  
+- **Grace** – A chatbot for **Algorithms**, using **interactive visualizations** to improve algorithmic understanding.
+
+### Custom GPTs List
+
+### Sagan | GSE Writing Bot  
+**By Nicholas Brown**  
+Analyze and improve research papers with detailed feedback on structure, methodology, and positionality.  
+[🔗 Link to Sagan](https://chatgpt.com/g/g-k8GQo2VXh-sagan-gse-writing-bot)  
+
+---
+
+### Dewey | Co-op Bot  
+**By Nicholas Brown**  
+Northeastern Khoury Co-op Assistant.  
+[🔗 Link to Dewey](https://chatgpt.com/g/g-02JtD5lvI-dewey-co-op-bot)  
+
+---
+
+### Ada | Calculus Bot  
+**By Nicholas Brown**  
+Advanced calculus tutor providing step-by-step explanations, practice problems, and concept reinforcement.  
+[🔗 Link to Ada](https://chatgpt.com/g/g-JMkUy05pG-ada-calculus-bot)  
+
+---
+
+### Newton | The Physics Bot  
+**By Nicholas Brown**  
+Friendly physics-savvy assistant that helps you understand concepts, solve problems, and prepare for exams with ease.  
+[🔗 Link to Newton](https://chatgpt.com/g/g-0CmbbdGsA-newton-the-physics-bot)  
+
+---
+
+### Grace 6205 - The INFO 6205 Algorithms Tutor  
+**By Nicholas Brown**  
+Algorithms tutor for NEU Coursera INFO 6205 students, offering structured guidance and problem-solving techniques.  
+[🔗 Link to Grace 6205](https://chatgpt.com/g/g-MFbqFw55p-grace-6205-the-info-6205-algorithms-tutor)  
+
+---
+
+### Archimedes (Structural Engineering Bot)  
+**By Nicholas Brown**  
+Simplifies Structural Engineering with clear explanations, real-world examples, and interactive problem-solving on key topics like trusses, beams, and columns.  
+[🔗 Link to Archimedes](https://chatgpt.com/g/g-674e99fe101c8191b3e9b3ca59ca45be-archimedes-structural-engineering-bot)  
+
+---
+
+### Tech Writing Buddy  
+**By Nicholas Brown**  
+Guides users in writing detailed, cited technical papers with a focus on structure, clarity, and proper sourcing.  
+[🔗 Link to Tech Writing Buddy](https://chatgpt.com/g/g-673f8a7fcbac819193a9875918e26b72-tech-writing-buddy)  
+
+---
+
+### Synthetic Personas  
+**By Nicholas Brown**  
+Generates data-driven synthetic personas for survey research and behavioral modeling, aiding in user experience and market analysis.  
+[🔗 Link to Synthetic Personas](https://chatgpt.com/g/g-67a80d375e1c819186b960f5e60f9b9d-synthetic-personas)  
+
 
 These chatbots enhance **student engagement, critical thinking, and personalized learning**.  
 
