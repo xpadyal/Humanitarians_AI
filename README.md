@@ -1,5 +1,7 @@
 # **Humanitarians AI Incorporated Mission**  
 
+![Workshop One](https://raw.githubusercontent.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/refs/heads/main/Art/pacvuokxuaf.png)  
+
 **Humanitarians AI Incorporated** is a **501(c)(3) nonprofit organization** dedicated to **harnessing the power of artificial intelligence (AI) for social good**. Our mission is to advance **ethical AI** through mentorship and community-building, promoting **transparency, responsible research, and equitable access to AI technologies**. We are committed to ensuring that **AI benefits everyone**, particularly **underserved communities**.  
 
 To achieve this mission, we implement the following key programs and initiatives:  
