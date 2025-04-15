@@ -1,5 +1,12 @@
 # CatBot and Beyond: How AI Chatbots Are Revolutionizing Animal Shelter Operations
 
+Siddharth Dumbre¹, Tanvie Sud², Shreyaan Pathak², Laasya Anantha Prasad², Nik Bear Brown¹*, Debashish Ghose², Kwong Chan²
+
+¹ School of Engineering, Northeastern University
+² D'Amore-McKim School of Business, Northeastern University
+* Corresponding author: nikbearbrown@gmail.com
+
+
 ## Abstract
 
 This survey article examines the emerging role of AI-powered chatbots in animal shelter operations, with a particular focus on the CatBot implementation at The Cat Connection. We analyze how these technological solutions address key challenges faced by animal shelters, including resource limitations, adoption barriers for special needs animals, and multilingual community support. Through case studies of successful implementations and examination of best practices, we demonstrate how chatbots can serve as 24/7 digital assistants that enhance volunteer productivity while improving adoption outcomes and community engagement. Recent statistics show approximately 6.5 million animals enter shelters annually with only about 3.2 million being adopted (ASPCA, 2024), highlighting the urgent need for innovative solutions. The article concludes with recommendations for shelters considering chatbot integration and predictions for future developments in this rapidly evolving field.
