@@ -153,6 +153,36 @@ The HR team strives to respond to all applications in a timely manner. Once acce
 - **Public repositories** - remember that your work is publicly visible; follow best practices for security and privacy
 - **Code of conduct** - all participants must adhere to our code of conduct (see project main page)
 
+## Community Engagement and Social Media
+
+### Supporting the Humanitarians AI Community
+
+Active engagement with the Humanitarians AI community is highly valued and considered when evaluating fellows' commitment to our mission. Fellows are strongly encouraged to follow and engage with our official social media channels:
+
+- **LinkedIn**: [Humanitarians AI](https://www.linkedin.com/company/105696953/)
+- **SoundCloud**: [Humanitarians AI](https://soundcloud.com/humanitarians-ai)
+- **Spotify**: [Humanitarians AI](https://open.spotify.com/artist/3cj3R4pDpYQHaWx0MM2vFV)
+- **Apple Music**: [Humanitarians AI](https://music.apple.com/us/artist/humanitarians-ai/1781414009)
+
+### Engagement Expectations
+
+When evaluating extension requests and overall commitment to the program, we consider:
+
+1. **Regular Engagement**: Following our social channels and engaging with posts
+2. **Content Sharing**: Resharing Humanitarians AI content with your professional network
+3. **Thoughtful Interaction**: Commenting on and supporting other fellows' achievements
+4. **Community Ambassadorship**: Representing our mission in your professional communications
+
+### Why Community Engagement Matters
+
+Your engagement with our content and community demonstrates:
+- Commitment to our shared mission beyond individual project work
+- Support for the broader Humanitarians AI ecosystem
+- Willingness to help expand our impact and reach
+- Investment in the community's collective success
+
+**Important Note**: While social media engagement is considered as a positive factor when evaluating extension requests and overall commitment, it complements but does not replace the mandatory GitHub documentation requirements outlined in this document. Proper documentation of your work remains the primary requirement for program participation and verification.
+
 By following these guidelines, you'll not only create a valuable record of your contributions but also develop professional skills in documentation, collaboration, and project management that will benefit your future career.
 
 ---
