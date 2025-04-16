@@ -113,7 +113,7 @@ For those participating in the Entrepreneurship Program:
 If you're interested in volunteering with Humanitarians AI, please follow these steps to ensure your application is properly processed:
 
 1. **Contact the HR Team**: 
-   - Email: hr.hr.aihumanitarians@gmail.com
+   - Email: hr.aihumanitarians@gmail.com
    - Subject Line: "Seeking Opportunity | [Desired Role]"
    - Example: "Seeking Opportunity | Machine Learning Fellow"
 
