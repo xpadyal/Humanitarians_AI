@@ -13,7 +13,7 @@ This document outlines the requirements and expectations for all volunteers part
 
 2. **GitHub Setup (REQUIRED)**:
    - Each volunteer MUST add themselves as a collaborator on their chosen project's GitHub repository
-   - You must use a GitHub account that clearly identifies you
+   - You must use your personal GitHub account that clearly identifies you
    - If you're new to GitHub, please familiarize yourself with basic Git operations (commit, push, pull, etc.)
 
 3. **Fellows Directory Setup**:
@@ -72,13 +72,35 @@ Recommendation letters will only be issued to fellows who:
 3. Have made substantial, verifiable contributions to their project
 4. Have properly documented their work following the guidelines above
 
-## Entrepreneurship Track
+## Entrepreneurship Program
 
-For those interested in the entrepreneurship aspects of our projects:
+### Requirements for Commercial Use of Project Work
+
+If you plan to use code or other intellectual property developed during your volunteer work with Humanitarians AI for commercial purposes or to start a business, you **MUST**:
+
+1. Apply to be part of the official Humanitarians AI Entrepreneurship Program
+2. Acknowledge that Humanitarians AI will receive a 5% ownership stake in any resulting venture
+3. Formalize this relationship through proper legal agreements
+
+This requirement reflects the extensive support, mentorship, resources, and infrastructure that Humanitarians AI provides to its volunteers and projects. The organization actively encourages entrepreneurial initiatives while ensuring fair recognition of its contributions to your success.
+
+### Intellectual Property Reminder
+
+All volunteers should remember that they have signed agreements containing the following language:
+
+> *Volunteer will, upon request of Humanitarians AI, without any additional consideration, promptly execute and deliver any and all documents or instruments and take any other action which Humanitarians AI shall deem necessary to assign to and vest completely in Humanitarians AI the Developments, to perfect trademark, copyright and patent protection with respect thereto, or to otherwise protect Humanitarians AI's trade secrets and proprietary interest in the Developments. Unless so requested or otherwise permitted in writing by Humanitarians AI, Volunteer will not apply for any patents or copyrights, whether domestic or foreign, on all or any portion of the Developments.*
+> 
+> *By execution of this Agreement, Volunteer irrevocably constitutes and appoints Humanitarians AI and its executive officers, with full power of substitution, to be its true and lawful attorney, in its name, place and stead, to execute, acknowledge, swear to and file all instruments, conveyances, certificates, agreements and other documents, and to take any action which will be necessary, appropriate or desirable to effectuate the foregoing provisions regarding assigning, securing, protecting or registering property rights in the Developments. The powers of attorney granted herein will be deemed to be coupled with an interest and will be irrevocable and survive the occurrence of the death or incapacity of Volunteer.*
+
+### Entrepreneurship Support
+
+For those participating in the Entrepreneurship Program:
 
 - Regular team meetings will be held to discuss entrepreneurial opportunities
 - Business model development will be tracked through the same GitHub system
 - Market research, customer development, and business planning should be documented in your updates
+- Mentorship from industry experts will be provided
+- Access to potential investors and pitch opportunities may be arranged for qualifying ventures
 
 ## Communication
 
