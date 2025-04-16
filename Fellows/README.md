@@ -13,7 +13,7 @@ This document outlines the requirements and expectations for all volunteers part
 
 2. **GitHub Setup (REQUIRED)**:
    - Each volunteer MUST add themselves as a collaborator on their chosen project's GitHub repository
-   - You must use your personal GitHub account that clearly identifies you
+   - You must use a GitHub account that clearly identifies you
    - If you're new to GitHub, please familiarize yourself with basic Git operations (commit, push, pull, etc.)
 
 3. **Fellows Directory Setup**:
