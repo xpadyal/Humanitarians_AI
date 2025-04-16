@@ -67,14 +67,26 @@ The GitHub-based tracking system provides an objective basis for evaluating your
 - Collaboration with other team members
 - Quality and impact of work produced
 
-## Recommendation Letters
+## Recommendation Letters and Verifications
 
+### Recommendation Letters
 Recommendation letters will only be issued to fellows who:
-
 1. Have been active contributors for a minimum duration (typically 2-3 months)
 2. Have maintained regular bi-weekly updates throughout their involvement
 3. Have made substantial, verifiable contributions to their project
 4. Have properly documented their work following the guidelines above
+
+### Visa and Employment Verification
+
+**IMPORTANT:** The same documentation requirements apply to any visa or employment verification requests:
+
+- Active participation must be continuously documented through GitHub
+- If you stop making bi-weekly updates, we will assume you left the program on the date of your last update
+- Even if you continue working but fail to document it, we cannot verify participation beyond your last documented update
+- Employment and visa verification letters will only reflect the dates and contributions that are properly documented in GitHub
+- It is your responsibility to maintain an accurate record of your involvement through regular commits and updates
+
+This policy exists to ensure integrity and accuracy in our official verifications. Humanitarians AI can only verify what is objectively documented in our systems.
 
 ## Entrepreneurship Program
 
