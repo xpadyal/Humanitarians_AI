@@ -164,6 +164,8 @@ Active engagement with the Humanitarians AI community is highly valued and consi
 - **Spotify**: [Humanitarians AI](https://open.spotify.com/artist/3cj3R4pDpYQHaWx0MM2vFV)
 - **Apple Music**: [Humanitarians AI](https://music.apple.com/us/artist/humanitarians-ai/1781414009)
 
+  **Please Star the Github repo that your project is in**
+
 ### Engagement Expectations
 
 When evaluating extension requests and overall commitment to the program, we consider:
