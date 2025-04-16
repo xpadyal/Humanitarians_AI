@@ -4,6 +4,10 @@
 
 This document outlines the requirements and expectations for all volunteers participating in Humanitarians AI projects. Following these guidelines is mandatory for receiving recommendation letters and acknowledgment of your contributions.
 
+## Questions or Support
+
+If you have any questions about these requirements or need assistance with GitHub, please contact us at: **hr.aihumanitarians@gmail.com**
+
 ## Getting Started
 
 1. **Project Selection**: 
@@ -102,13 +106,33 @@ For those participating in the Entrepreneurship Program:
 - Mentorship from industry experts will be provided
 - Access to potential investors and pitch opportunities may be arranged for qualifying ventures
 
-## Communication
+## How to Volunteer with Humanitarians AI
 
-While much of our work happens asynchronously through GitHub, we also maintain:
+### Application Process
 
-- Regular team meetings (schedule will be shared separately)
-- Slack/Discord channels for day-to-day communication
-- Email updates for major announcements
+If you're interested in volunteering with Humanitarians AI, please follow these steps to ensure your application is properly processed:
+
+1. **Contact the HR Team**: 
+   - Email: hr.hr.aihumanitarians@gmail.com
+   - Subject Line: "Seeking Opportunity | [Desired Role]"
+   - Example: "Seeking Opportunity | Machine Learning Fellow"
+
+2. **Required Materials**:
+   - Attach your current resume/CV
+   - If you're already approved for a project, keep the Project Leader in CC
+   
+3. **Next Steps**:
+   - The HR team will review your application
+   - If your qualifications match available opportunities, they will contact you to schedule an interview
+
+### Important Notes
+
+- Please send your application **only to the HR email address** listed above
+- Do not send multiple emails as this might delay the review process
+- For general inquiries, use: hr.aihumanitarians@gmail.com
+- Project leaders do not handle HR-related activities including recruitment
+
+The HR team strives to respond to all applications in a timely manner. Once accepted into the Fellows Program, you will need to follow the GitHub documentation process outlined in this README.
 
 ## Important Reminders
 
@@ -119,12 +143,6 @@ While much of our work happens asynchronously through GitHub, we also maintain:
 
 By following these guidelines, you'll not only create a valuable record of your contributions but also develop professional skills in documentation, collaboration, and project management that will benefit your future career.
 
-## Questions?
-
-If you have any questions about these requirements or need assistance with GitHub, please contact the project leads or program administrators.
-
 ---
 
-*Last updated: [Current Date]*
-
-*Humanitarians AI - Using AI for social good*
+*Humanitarians AI - Using AI for Good*
