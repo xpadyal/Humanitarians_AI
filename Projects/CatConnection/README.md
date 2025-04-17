@@ -1,6 +1,6 @@
 # CatBot: AI-Powered Chatbot for Special Needs Cat Adoption
 
-![CatBot Logo](assets/catbot-logo.png)
+![CatBot Logo](catbot.png)
 
 ## Overview
 
