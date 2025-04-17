@@ -51,38 +51,39 @@ CatBot is built using a hybrid architecture that combines:
 
 ### Prerequisites
 
-- Node.js (v16.x or higher)
-- Python 3.9+
-- MongoDB
+- Voiceflow account
+- A web page or any javascript compatible user interface
 - API keys for chosen LLM service
 
-### Local Development Environment
+### Installation and Maintainence
+ - Access your website's code: Log in to your website's content management system or access your site files via FTP/SFTP.
+ - Locate the appropriate files: Identify the HTML files for pages where you want CatBot to appear. Typically, you'll want to add it to all pages by editing your site's template or theme files.
+ - Add the JavaScript snippet: Copy the following code and paste it just before the closing </body> tag:
 
-```bash
-# Clone the repository
-git clone https://github.com/TheNortheasternCatConnection/catbot.git
-cd catbot
-
-# Install dependencies
-npm install
-
-# Set up environment variables
-cp .env.example .env
-# Edit .env with your API keys and configuration
-
-# Start the development server
-npm run dev
+```html
+<script type="text/javascript">
+  (function(d, t) {
+    var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
+    v.onload = function() {
+      window.voiceflow.chat.load({
+        verify: { projectID: 'YOUR_PROJECT_ID' },
+        url: 'https://general-runtime.voiceflow.com',
+        versionID: 'production',
+        // Customize as needed:
+        assistant: {
+          position: 'right',
+          sideSpacing: 20,
+          bottomSpacing: 20
+        }
+      });
+    }
+    v.src = "https://cdn.voiceflow.com/widget/latest/voiceflow.bundle.js"; 
+    v.async = true;
+    s.parentNode.insertBefore(v, s);
+  })(document, 'script');
+</script>
 ```
 
-### Production Deployment
-
-```bash
-# Build the production version
-npm run build
-
-# Start the production server
-npm start
-```
 
 ## Usage Examples
 
