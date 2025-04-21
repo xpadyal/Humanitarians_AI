@@ -50,8 +50,10 @@ Research conducted by the ASPCA (2018) indicates that online searches now accoun
 
 ## 3. CatBot: A Case Study in Specialized Chatbot Implementation
 
-![ChatBot Components](cb_collage.JPEG)
-CatBot Components- Web embedding, Intent Analytics, Knowledge Base, Workflow
+<div style="text-align: center;">
+  <img src="cb_collage.JPEG" alt="ChatBot Components">
+  <p>CatBot Components- Web embedding, Intent Analytics, Knowledge Base, Workflow</p>
+</div>
 
 ### 3.1 Development and Implementation
 
@@ -227,8 +229,10 @@ Organizations implementing AI systems must consider:
 - Avoiding bias in adoption recommendations
 - Maintaining human oversight for critical decisions
 
-![ChatBot Consideration](cb_decision_tree.png)
-Chatbot Implementation Decision Tree
+<div style="text-align: center;">
+  <img src="cb_decision_tree.png" alt="ChatBot Consideration">
+  <p>Chatbot Implementation Decision Tree</p>
+</div>
 
 ## 8. Case Studies of Successful Implementations
 
@@ -300,8 +304,10 @@ The future of animal welfare chatbots lies in collaborative networks:
 - Standardized training data for improved accuracy
 - Collective impact measurement and reporting
 
-![Chatbot Roadmap](cb_roadmap.png)
-Future Chatbot Evolution Roadmap
+<div style="text-align: center;">
+  <img src="cb_roadmap.png" alt="Chatbot Roadmap">
+  <p>Future Chatbot Evolution Roadmap</p>
+</div>
 
 ## 10. Implementation Recommendations for Shelters
 
