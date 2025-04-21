@@ -148,8 +148,8 @@ Seattle Humane implemented a 24/7 chatbot that has significantly enhanced their 
 
 The system handles approximately 2,000 inquiries monthly that would otherwise require volunteer attention or remain unanswered until business hours. Most importantly, the shelter observed a 22% increase in completed adoption applications, many submitted during non-business hours.
 
-**[FIGURE 2: Hourly Distribution of Chatbot Interactions]**
-*A line graph showing the distribution of chatbot interactions throughout a 24-hour period, highlighting significant engagement during non-business hours.*
+[//]: <> **[FIGURE 2: Hourly Distribution of Chatbot Interactions]**
+[//]: <> *A line graph showing the distribution of chatbot interactions throughout a 24-hour period, highlighting significant engagement during non-business hours.*
 
 ## 6. Optimizing Volunteer Resources Through Chatbot Implementation
 
