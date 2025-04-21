@@ -301,8 +301,8 @@ The future of animal welfare chatbots lies in collaborative networks:
 - Standardized training data for improved accuracy
 - Collective impact measurement and reporting
 
-**[FIGURE 4: Future Chatbot Evolution Roadmap]**
-*A timeline depicting the projected evolution of shelter chatbot capabilities over the next five years, from current text-based systems to advanced multimodal platforms with collaborative features.*
+![Chatbot Roadmap]('cb_roadmap.png')
+**[Future Chatbot Evolution Roadmap]**
 
 ## 10. Implementation Recommendations for Shelters
 
