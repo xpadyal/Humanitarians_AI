@@ -244,7 +244,7 @@ For technical issues:
 - **Voiceflow Community**: [community.voiceflow.com](https://community.voiceflow.com)
 - **Video Tutorials**: [Voiceflow YouTube Channel](https://www.youtube.com/c/Voiceflow)
 
-For the first year, you can also contact our team directly at [support@yourcompany.com] for assistance with CatBot.
+For the first year, you can also contact our team at [nikbearbrown@gmail.com] for assistance with CatBot.
 
 ---
 
