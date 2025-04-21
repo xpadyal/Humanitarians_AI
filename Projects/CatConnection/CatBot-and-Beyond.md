@@ -410,4 +410,15 @@ Nik Bear Brown*¹, Tanvie Sud², Shreyaan Pathak², Laasya Anantha Prasad², Sid
 ² Student team, Northeastern University
 ³ D'Amore-McKim School of Business, Northeastern University
 
-The authors would like to thank the staff and volunteers of The Cat Connection and other shelters featured in this article for their willingness to share insights about their chatbot implementations.
+## Acknowledgments
+
+Nik Bear Brown*¹, Tanvie Sud², Shreyaan Pathak², Laasya Anantha Prasad², Siddharth Dumbre¹˒², Nicholas Brown², Debashish Ghose³, Kwong Chan³
+
+¹ School of Engineering, Northeastern University
+² Student team, Northeastern University
+³ D'Amore-McKim School of Business, Northeastern University
+* Corresponding author: nikbearbrown@gmail.com
+
+The authors would like to thank the staff and volunteers of The Cat Connection and other shelters featured in this article for their willingness to share insights about their chatbot implementations. 
+
+Special acknowledgment to Humanitarians AI, a 501(c)(3) nonprofit organization, for providing support to Siddharth Dumbre during the development of this project. This work represents part of Humanitarians AI's ongoing mission to harness artificial intelligence for social good, particularly in supporting nonprofit organizations like animal shelters through innovative technological solutions.
