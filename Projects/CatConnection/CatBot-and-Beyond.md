@@ -50,6 +50,9 @@ Research conducted by the ASPCA (2018) indicates that online searches now accoun
 
 ## 3. CatBot: A Case Study in Specialized Chatbot Implementation
 
+![ChatBot Components](cb_collage.JPEG)
+**[CatBot Components- Web embedding, Intent Analytics, Knowledge Base, Workflow]**
+
 ### 3.1 Development and Implementation
 
 CatBot emerged from Northeastern University's "Digital, Analytics, Technology and Automation Advanced Research Practicum" course, where students applied data analytics and AI skills to address real-world challenges. The development team—consisting of Tanvie Sud, Shreyaan Pathak, Laasya Anantha Prasad, Siddharth Dumbre, and Nicholas Brown—identified the difficulties faced by senior and special needs cats in finding homes and created a targeted solution.
@@ -81,10 +84,6 @@ Since implementation, CatBot has demonstrated measurable impact on The Cat Conne
 - Reduced time spent by volunteers answering repetitive questions
 - Expanded reach to potential adopters beyond traditional operating hours
 - Improved preparation of adopters for the challenges of special needs cat care
-
-![ChatBot Components](cb_collage.JPEG)
-**[CatBot Components- Web embedding, Intent Analytics, Knowledge Base, Workflow]**
-
 
 ## 4. Expanding Multilingual Support in Shelter Chatbots
 
@@ -228,8 +227,8 @@ Organizations implementing AI systems must consider:
 - Avoiding bias in adoption recommendations
 - Maintaining human oversight for critical decisions
 
-**[FIGURE 3: Chatbot Implementation Decision Tree]**
-*A flowchart guiding shelters through the decision process of selecting and implementing an appropriate chatbot solution based on their specific needs and resources.*
+![ChatBot Consideration](cb_decision_tree.png)
+**[Chatbot Implementation Decision Tree]**
 
 ## 8. Case Studies of Successful Implementations
 
