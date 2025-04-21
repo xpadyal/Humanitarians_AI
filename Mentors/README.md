@@ -1,192 +1,171 @@
-# Humanitarians AI Fellows Program
+# Mentor Guidelines for OPT Fellows at Humanitarians AI
 
-## Welcome to the Humanitarians AI Fellows Program!
+## Introduction
 
-This document outlines the requirements and expectations for all volunteers participating in Humanitarians AI projects. Following these guidelines is mandatory for receiving recommendation letters and acknowledgment of your contributions.
+This document outlines the responsibilities of mentors working with Humanitarians AI fellows who are on Optional Practical Training (OPT). As a 501(c)(3) nonprofit, Humanitarians AI provides valuable practical training opportunities for international students while advancing our mission of using AI for social good.
 
-## Questions or Support
+Mentors at Humanitarians AI serve primarily as educators and guides, focusing on the fellow's technical and professional development. Humanitarians AI handles the administrative aspects of the OPT process, including formal documentation and verification.
 
-If you have any questions about these requirements or need assistance with GitHub, please contact us at: **hr.aihumanitarians@gmail.com**
+## Understanding OPT Requirements
 
-## Getting Started
+OPT fellows face specific regulatory requirements that mentors must understand:
 
-1. **Project Selection**: 
-   - Review available projects at [Humanitarians AI GitHub](https://github.com/nikbearbrown/Humanitarians_AI)
-   - Select a project that matches your interests and skills
-   - Reach out to the project lead to express interest
+1. **Employment Relationship**: OPT fellows must maintain employment directly related to their field of study
+2. **Minimum Hours**: Fellows must work at least 20 hours per week to maintain legal F-1 OPT status
+3. **Unemployment Limitations**: Fellows cannot accrue more than 90 days of unemployment during their OPT period
+4. **Documentation**: Proper documentation of the employment relationship is essential
 
-2. **GitHub Setup (REQUIRED)**:
-   - Each volunteer MUST add themselves as a collaborator on their chosen project's GitHub repository
-   - You must use your personal GitHub account that clearly identifies you
-   - If you're new to GitHub, please familiarize yourself with basic Git operations (commit, push, pull, etc.)
+## Mentor Responsibilities
 
-3. **Fellows Directory Setup**:
-   - After being added as a collaborator, create your personal folder within the "Fellows" directory
-   - Name the folder using the format: `Firstname_Lastname`
-   - Create a profile README.md in your folder with:
-     - Your name and contact information
-     - Professional background/skills
-     - Project role/interests
-     - Start date with Humanitarians AI
-     - Expected end date or duration of commitment
+### 1. Project Alignment & Educational Focus
 
-## Documentation Requirements
+- **Ensure Field Relevance**: Design projects that clearly relate to the fellow's academic field of study
+- **Monitor Documentation**: 
+  - Regularly review the fellow's documentation on GitHub as described at: https://github.com/nikbearbrown/Humanitarians_AI/tree/main/Fellows
+  - Promptly inform Humanitarians AI if a fellow is not properly documenting their work
+  - Ensure fellows understand the importance of documentation for OPT compliance
+- **Documentation Support**: 
+  - Assist fellows with technical documentation of their work
+  - Help fellows articulate how their work relates to their academic field
+  - Guide fellows in documenting educational/training components of their experience
 
-### Bi-Weekly Updates (MANDATORY)
+**Note**: Humanitarians AI will handle formal employment documentation and offer letters, especially for mentors who do not have an e-verify US business or organization.
 
-All fellows MUST provide updates at minimum every two weeks. This is non-negotiable and essential for maintaining active status in the program.
+### 2. Structured Supervision
 
-Your bi-weekly updates should:
+- **Regular Check-ins**: Conduct weekly or bi-weekly meetings to:
+  - Review progress on assigned projects
+  - Provide technical guidance and feedback
+  - Address challenges and adjust project scope as needed
+  - Document attendance and participation
+- **Clear Expectations**: Set clear deliverables and deadlines
+- **Work Verification**: Track and verify that fellows maintain the minimum 20 hours per week requirement
 
-1. Be committed directly to your personal folder in the Fellows directory
-2. Use the following naming convention: `YYYY-MM-DD_update.md`
-3. Include:
-   - Summary of work completed in the past two weeks
-   - Challenges encountered and how they were addressed
-   - Goals for the next two weeks
-   - Any resources or assistance needed
-   - Hours contributed during this period
+### 3. Educational Development
 
-### Project Documentation
+- **Training Plan**: Develop a structured training plan outlining:
+  - Skills to be developed
+  - Learning objectives
+  - Progression of responsibilities
+  - Evaluation criteria
+- **Skill Development**: Focus on building technical and professional skills relevant to the fellow's field
+- **Knowledge Transfer**: Share expertise and guide research/implementation methodology
+- **Industry Exposure**: Connect fellows with relevant professionals and resources
 
-Beyond your personal updates, you should contribute to the project's main documentation as appropriate:
+### 4. Documentation Oversight and Recommendation Letters
 
-- Code comments
-- Function/module documentation
-- User guides
-- Technical specifications
-- Research findings
+- **Monitor Activity Documentation**: Ensure fellows maintain detailed logs of:
+  - Hours worked (minimum 20 per week)
+  - Tasks completed
+  - Skills developed
+  - Technologies utilized
+- **GitHub Documentation**: 
+  - Regularly verify fellows maintain proper GitHub documentation according to guidelines at: https://github.com/nikbearbrown/Humanitarians_AI/tree/main/Fellows
+  - Ensure bi-weekly updates are being submitted
+  - Review code contributions and project documentation
+  - Alert Humanitarians AI if documentation requirements are not being met
+- **Recommendation Letters**: As the primary technical mentor, you will be the one fellows approach for recommendation letters. These should include:
+  - Detailed description of the fellow's technical contributions
+  - Assessment of skills developed and demonstrated
+  - Evaluation of work quality and impact
+  - Confirmation of project relevance to academic field
+  - Professional growth observations
+- **Educational Development Records**: Track and document the fellow's learning progress and achievements
 
-## Tracking and Evaluation
+## Supporting OPT Compliance
 
-The GitHub-based tracking system provides an objective basis for evaluating your contributions. The following metrics will be considered when assessing your work:
+### Role Clarification
 
-- Frequency and quality of commits
-- Consistency of bi-weekly updates
-- Contributions to project milestones
-- Collaboration with other team members
-- Quality and impact of work produced
+- **Mentor Focus**: As a mentor, your primary role is educational and technical guidance
+- **Administrative Support**: Humanitarians AI handles formal employment verification and documentation
+- **Collaboration**: Work with Humanitarians AI to ensure fellows meet all requirements
 
-## Recommendation Letters and Verifications
+### Documentation Oversight
 
-### Recommendation Letters
-Recommendation letters will only be issued to fellows who:
-1. Have been active contributors for a minimum duration (typically 2-3 months)
-2. Have maintained regular bi-weekly updates throughout their involvement
-3. Have made substantial, verifiable contributions to their project
-4. Have properly documented their work following the guidelines above
+- **GitHub Monitoring**: Regularly review fellows' GitHub documentation to ensure compliance with requirements
+- **Documentation Guidance**: 
+  - Help fellows understand what technical aspects should be documented
+  - Assist with proper documentation of skills developed and technologies used
+  - Guide fellows in connecting their work to their academic field
+- **Hours Verification**: 
+  - Ensure fellows understand the 20-hour minimum requirement
+  - Help fellows accurately track and document their hours
+  - Alert Humanitarians AI if a fellow appears to be falling below required hours
 
-### Visa and Employment Verification
+### Supporting Documentation for Immigration Purposes
 
-**IMPORTANT:** The same documentation requirements apply to any visa or employment verification requests:
+While Humanitarians AI handles formal verification letters, mentors should:
+- Provide technical details about projects and skills for inclusion in documentation
+- Offer input for verification letters when requested
+- Be available to confirm the educational nature and technical relevance of the fellow's work
+- Alert Humanitarians AI immediately if documentation issues arise that could affect a fellow's OPT status
 
-- Active participation must be continuously documented through GitHub
-- If you stop making bi-weekly updates, we will assume you left the program on the date of your last update
-- Even if you continue working but fail to document it, we cannot verify participation beyond your last documented update
-- Employment and visa verification letters will only reflect the dates and contributions that are properly documented in GitHub
-- It is your responsibility to maintain an accurate record of your involvement through regular commits and updates
+## Best Practices for OPT Mentorship
 
-This policy exists to ensure integrity and accuracy in our official verifications. Humanitarians AI can only verify what is objectively documented in our systems.
+1. **Understand Each Fellow's Background**:
+   - Review academic transcripts or CV
+   - Discuss coursework relevant to projects
+   - Identify knowledge gaps to address
 
-## Entrepreneurship Program
+2. **Create Individualized Development Plans**:
+   - Set learning objectives aligned with academic background
+   - Establish progression of increasing responsibility
+   - Identify specific skills to develop
 
-### Requirements for Commercial Use of Project Work
+3. **Balance Guidance and Autonomy**:
+   - Provide clear direction while encouraging independent problem-solving
+   - Gradually increase project ownership
+   - Foster innovation while ensuring practical training objectives are met
 
-If you plan to use code or other intellectual property developed during your volunteer work with Humanitarians AI for commercial purposes or to start a business, you **MUST**:
+4. **Facilitate Professional Development**:
+   - Encourage conference participation or paper submissions
+   - Create opportunities for presentation and communication skills
+   - Provide feedback on professional growth
 
-1. Apply to be part of the official Humanitarians AI Entrepreneurship Program
-2. Acknowledge that Humanitarians AI will receive a 5% ownership stake in any resulting venture
-3. Formalize this relationship through proper legal agreements
+5. **Maintain Clear Communication**:
+   - Set explicit expectations about deliverables and timelines
+   - Provide regular, constructive feedback
+   - Document all significant communications
 
-This requirement reflects the extensive support, mentorship, resources, and infrastructure that Humanitarians AI provides to its volunteers and projects. The organization actively encourages entrepreneurial initiatives while ensuring fair recognition of its contributions to your success.
+## Legal Considerations for Unpaid Positions
 
-### Intellectual Property Reminder
+For unpaid positions, mentors must ensure the following to comply with Department of Labor regulations:
 
-All volunteers should remember that they have signed agreements containing the following language:
+1. **Educational Focus**: The experience must be primarily for the benefit of the fellow
+2. **Professional Environment**: Training must be similar to that given in an educational environment
+3. **Business Operations**: Regular operations should not be dependent on the fellow's work
+4. **Displacement**: Fellows should not displace regular employees
+5. **Educational Benefit**: The mentor provides significant educational benefits through close supervision
+6. **Expectations**: No guarantee of employment following the training period
 
-> *Volunteer will, upon request of Humanitarians AI, without any additional consideration, promptly execute and deliver any and all documents or instruments and take any other action which Humanitarians AI shall deem necessary to assign to and vest completely in Humanitarians AI the Developments, to perfect trademark, copyright and patent protection with respect thereto, or to otherwise protect Humanitarians AI's trade secrets and proprietary interest in the Developments. Unless so requested or otherwise permitted in writing by Humanitarians AI, Volunteer will not apply for any patents or copyrights, whether domestic or foreign, on all or any portion of the Developments.*
-> 
-> *By execution of this Agreement, Volunteer irrevocably constitutes and appoints Humanitarians AI and its executive officers, with full power of substitution, to be its true and lawful attorney, in its name, place and stead, to execute, acknowledge, swear to and file all instruments, conveyances, certificates, agreements and other documents, and to take any action which will be necessary, appropriate or desirable to effectuate the foregoing provisions regarding assigning, securing, protecting or registering property rights in the Developments. The powers of attorney granted herein will be deemed to be coupled with an interest and will be irrevocable and survive the occurrence of the death or incapacity of Volunteer.*
+## Mentor & Humanitarians AI Responsibilities
 
-### Entrepreneurship Support
+### Mentor Responsibilities
+- Provide technical guidance and educational support
+- Monitor GitHub documentation compliance
+- Write recommendation letters when requested
+- Alert Humanitarians AI about documentation issues
+- Focus on the fellow's educational and professional development
 
-For those participating in the Entrepreneurship Program:
+### Humanitarians AI Responsibilities
+- Prepare formal documentation describing:
+  - The fellow's role and responsibilities
+  - How the work directly relates to their academic field
+  - The educational/training components of the experience
+  - Weekly hour commitments (minimum 20 hours)
+- Provide formal offer letters specifying:
+  - Start and end dates
+  - Project description and educational benefits
+  - Weekly hour commitment
+  - Volunteer/unpaid status (if applicable)
+  - Humanitarians AI's 501(c)(3) status
+- Handle employment verification for immigration purposes
+- Maintain official records for compliance purposes
 
-- Regular team meetings will be held to discuss entrepreneurial opportunities
-- Business model development will be tracked through the same GitHub system
-- Market research, customer development, and business planning should be documented in your updates
-- Mentorship from industry experts will be provided
-- Access to potential investors and pitch opportunities may be arranged for qualifying ventures
+## Conclusion
 
-## How to Volunteer with Humanitarians AI
-
-### Application Process
-
-If you're interested in volunteering with Humanitarians AI, please follow these steps to ensure your application is properly processed:
-
-1. **Contact the HR Team**: 
-   - Email: hr.aihumanitarians@gmail.com
-   - Subject Line: "Seeking Opportunity | [Desired Role]"
-   - Example: "Seeking Opportunity | Machine Learning Fellow"
-
-2. **Required Materials**:
-   - Attach your current resume/CV
-   - If you're already approved for a project, keep the Project Leader in CC
-   
-3. **Next Steps**:
-   - The HR team will review your application
-   - If your qualifications match available opportunities, they will contact you to schedule an interview
-
-### Important Notes
-
-- Please send your application **only to the HR email address** listed above
-- Do not send multiple emails as this might delay the review process
-- For general inquiries, use: hr.aihumanitarians@gmail.com
-- Project leaders do not handle HR-related activities including recruitment
-
-The HR team strives to respond to all applications in a timely manner. Once accepted into the Fellows Program, you will need to follow the GitHub documentation process outlined in this README.
-
-## Important Reminders
-
-- **All significant work MUST be documented through GitHub** - if it's not on GitHub, it didn't happen
-- **Bi-weekly updates are mandatory** - missing updates may result in removal from the program
-- **Public repositories** - remember that your work is publicly visible; follow best practices for security and privacy
-- **Code of conduct** - all participants must adhere to our code of conduct (see project main page)
-
-## Community Engagement and Social Media
-
-### Supporting the Humanitarians AI Community
-
-Active engagement with the Humanitarians AI community is highly valued and considered when evaluating fellows' commitment to our mission. Fellows are strongly encouraged to follow and engage with our official social media channels:
-
-- **LinkedIn**: [Humanitarians AI](https://www.linkedin.com/company/105696953/)
-- **SoundCloud**: [Humanitarians AI](https://soundcloud.com/humanitarians-ai)
-- **Spotify**: [Humanitarians AI](https://open.spotify.com/artist/3cj3R4pDpYQHaWx0MM2vFV)
-- **Apple Music**: [Humanitarians AI](https://music.apple.com/us/artist/humanitarians-ai/1781414009)
-
-  **Please Star the Github repo that your project is in**
-
-### Engagement Expectations
-
-When evaluating extension requests and overall commitment to the program, we consider:
-
-1. **Regular Engagement**: Following our social channels and engaging with posts
-2. **Content Sharing**: Resharing Humanitarians AI content with your professional network
-3. **Thoughtful Interaction**: Commenting on and supporting other fellows' achievements
-4. **Community Ambassadorship**: Representing our mission in your professional communications
-
-### Why Community Engagement Matters
-
-Your engagement with our content and community demonstrates:
-- Commitment to our shared mission beyond individual project work
-- Support for the broader Humanitarians AI ecosystem
-- Willingness to help expand our impact and reach
-- Investment in the community's collective success
-
-**Important Note**: While social media engagement is considered as a positive factor when evaluating extension requests and overall commitment, it complements but does not replace the mandatory GitHub documentation requirements outlined in this document. Proper documentation of your work remains the primary requirement for program participation and verification.
-
-By following these guidelines, you'll not only create a valuable record of your contributions but also develop professional skills in documentation, collaboration, and project management that will benefit your future career.
+Effective mentorship of OPT fellows requires a commitment to providing valuable practical training while ensuring compliance with regulatory requirements. By following these guidelines and working in collaboration with Humanitarians AI, mentors help fellows maintain legal status while gaining valuable skills and contributing to the organization's mission.
 
 ---
 
-*Humanitarians AI - Using AI for Good*
+*This document was created to guide mentors at Humanitarians AI. For specific legal advice regarding OPT regulations, please consult with qualified immigration counsel.*
