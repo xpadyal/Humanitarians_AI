@@ -45,7 +45,7 @@ CatBot is built using a hybrid architecture that combines:
 3. **Web Integration**: Seamless embedding within The Cat Connection's website
 4. **Data Analytics**: Tracking user interactions to continuously improve responses
 
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](cb_collage.png)
 
 ## Installation and Setup
 
