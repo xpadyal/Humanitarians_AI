@@ -83,7 +83,7 @@ Since implementation, CatBot has demonstrated measurable impact on The Cat Conne
 - Improved preparation of adopters for the challenges of special needs cat care
 
 ![ChatBot Components](cb_collage.JPEG)
-**[FIGURE 1: CatBot Implementation Components and Architecture]**
+**[CatBot Components- Web embedding, Intent Analytics, Knowledge Base, Workflow]**
 
 
 ## 4. Expanding Multilingual Support in Shelter Chatbots
