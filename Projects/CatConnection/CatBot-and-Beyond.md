@@ -144,12 +144,6 @@ Shelter chatbots can provide various levels of after-hours support:
 **Emergency Guidance**: Providing basic pet health guidance and emergency veterinary referrals
 **Application Processing**: Allowing potential adopters to complete and submit adoption applications
 
-### 5.3 Case Study: Seattle Humane's Round-the-Clock Assistant
-
-Seattle Humane implemented a 24/7 chatbot that has significantly enhanced their operational capacity. Data collected over six months showed that 63% of chatbot interactions occurred outside of regular business hours, with 28% taking place between 10 PM and 6 AM.
-
-The system handles approximately 2,000 inquiries monthly that would otherwise require volunteer attention or remain unanswered until business hours. Most importantly, the shelter observed a 22% increase in completed adoption applications, many submitted during non-business hours.
-
 ## 6. Optimizing Volunteer Resources Through Chatbot Implementation
 
 ### 6.1 Volunteer Challenges in Animal Shelters
