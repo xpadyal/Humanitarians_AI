@@ -12,7 +12,7 @@
 ## 💼 Professional Background / Skills
 
 - **Programming Languages:** C++, Java, Python, JavaScript, Bash  
-- **Web Technologies:** HTML, CSS, React, Node.js, Spring Boot  
+- **Web Technologies:** HTML, CSS, React, Node.js, Spring Boot, Express  
 - **Cloud & DevOps:** Git, GitHub Actions, Terraform, Packer, GCP, Cloud Infrastructure, Containerized Applications  
 - **Databases:** MySQL, MongoDB, PostgreSQL, Pinecone, ChromaDB  
 - **Tools & Technologies:** Linux, ANSYS, SolidWorks, Figma, Postman, Trello, Moquups, Ollama, Neo4j
@@ -25,7 +25,6 @@
 - Agent creation and recursive tree-structured solution resolution  
 - Structured response generation via method calling  
 - Modular and extensible backend using Python, Langchain, Ollama, and Pydantic  
-- Built with Gradio UI  
 🔗 [GitHub Repo](https://github.com/stellis-labs/Chain-of-Thought-Reasoning-Agent/tree/main)
 
 ### **Super Agent – Solution Merging**  
