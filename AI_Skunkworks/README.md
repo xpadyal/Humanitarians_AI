@@ -1,5 +1,3 @@
-I'll craft a description that positions AI Skunkworks in relation to Humanitarians AI Incorporated, highlighting the key connection while maintaining all the project information.
-
 # AI Skunkworks and Humanitarians AI: Connected Missions
 
 AI Skunkworks is a sister organization to Humanitarians AI Incorporated, with complementary but distinct purposes in the AI education ecosystem. While Humanitarians AI focuses on post-graduation opportunities and broader social impact through its Fellows Program, AI Skunkworks provides a crucial experiential learning environment specifically for Northeastern University students to engage with AI research, entrepreneurship, and practical applications while still completing their academic studies.
