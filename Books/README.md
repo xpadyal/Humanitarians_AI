@@ -1,6 +1,6 @@
 **Book in progress**   
 
-## [AI_Applications_for_Neur...Learning](AI_Applications_for_Neur...Learning)
+## [AI_Applications_for_Neurodiverse_Learning](AI_Applications_for_Neurodiverse_Learning)
 **Book Title: AI Applications for Neurodiverse Learning**
 
 This book examines how artificial intelligence supports educational experiences for neurodiverse learners, including individuals with autism, ADHD, dyslexia, and other cognitive differences. It covers applications of generative AI, large language models, chatbots, and assistive technologies that create personalized learning systems adapting to diverse cognitive profiles. The book discusses virtual and augmented reality applications providing multisensory learning experiences tailored to the unique needs of neurodiverse students.
@@ -30,12 +30,12 @@ This book focuses on the statistical and methodological approaches to establishi
 
 This book provides a comprehensive introduction to financial modeling and analysis using Python. It covers fundamental financial concepts (returns, risk measures, portfolio theory), statistical methods relevant to finance, and practical implementation in Python. Topics include time series analysis of financial data, options pricing models, risk assessment techniques like Value-at-Risk, and portfolio optimization strategies. The book emphasizes hands-on application with relevant financial datasets and real-world examples.
 
-## [Foundational-AI-for-Soft...ineering](Foundational-AI-for-Soft...ineering)
+## [Foundational-AI-for-Software-Engineering](Foundational-AI-for-Software-Engineering)
 **Book Title: Foundational AI for Software Engineering**
 
 This book explores how artificial intelligence is transforming software engineering practices. It covers how AI tools enhance various aspects of the software development lifecycle, from requirements gathering and design to coding, testing, and maintenance. Topics include AI-powered code generation, automated testing, bug prediction, and intelligent development environments. The book discusses how these technologies improve software quality, developer productivity, and project management while addressing ethical considerations and implementation challenges.
 
-## [Generative-AI-and-Ele...croscopy](Generative-AI-and-Ele...croscopy)
+## [Generative-AI-and-Electron-Microscopy](Generative-AI-and-Electron-Microscopy)
 **Book Title: Generative AI and Electron Microscopy**
 
 This specialized book explores applications of generative AI models in the field of electron microscopy. It discusses how techniques like GANs and VAEs enhance microscopy image quality, enable 3D reconstructions from limited data, and automate feature extraction and analysis. Topics include image denoising, super-resolution techniques, synthetic dataset generation, and predictive modeling of material behaviors at the nanoscale. The book addresses both technical implementations and practical applications in materials science, biology, and medical research.
