@@ -1,6 +1,6 @@
 # AI for Good: Northeastern Students Develop CatBot to Boost Special Needs Cat Adoptions
 
-![CatBot](catbot_image.png) <!-- Replace with your actual image file name -->
+![CatBot](catbot.png)
 
 In a powerful demonstration of how artificial intelligence can create positive social impact, a team of Northeastern University students has developed CatBot, an AI-powered chatbot now live on The Cat Connection’s website. Designed to help a Boston-based cat rescue place senior and special needs cats in loving homes, CatBot is more than a technical achievement—it’s a bridge between compassion and technology. 
 
